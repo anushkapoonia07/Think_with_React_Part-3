@@ -1,0 +1,13 @@
+body{
+  background-color:cornflowerblue;
+}
+.kalvium{
+  text-align: center;
+  font-size: 50px;
+  color:rgba(255, 20, 145, 0.667) ;
+  margin-top: 250px;
+  background-color: aliceblue;
+  width: 700px;
+  margin-left: 400px;
+  border: 3px solid brown;
+}
